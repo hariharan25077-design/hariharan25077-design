@@ -42,11 +42,9 @@
 - GitHub Actions
 
 ### 💻 Programming
-- Python
 - JavaScript
 - HTML5
-- CSS3
-- SQL
+- CSS
 
 ### 🖥️ Operating System
 - Linux (Ubuntu)
@@ -56,7 +54,7 @@
 - Git
 - GitHub
 - VS Code
-- Postman
+  
 
 ---
 
