@@ -19,8 +19,26 @@
 - 💡 Interested in Cloud Automation and CI/CD Pipelines
 - 📚 Continuously learning new cloud technologies
 - 🎯 Goal: Become a **Cloud & DevOps Engineer**
-
 ---
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:hariharan25077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/hariharan-cloud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://mellow-basbousa-ac1e73.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/hariharan25077-design">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 # 🚀 Tech Stack
 
